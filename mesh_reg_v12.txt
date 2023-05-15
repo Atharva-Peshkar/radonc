@@ -52,7 +52,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/libtiff-4.1.0-h2733197_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.41.2-h5eee18b_0.conda
 https://conda.anaconda.org/conda-forge/linux-64/ffmpeg-4.3-h167e202_1.tar.bz2
 https://conda.anaconda.org/anaconda/linux-64/lcms2-2.11-h396b838_0.tar.bz2
-https://repo.anaconda.com/pkgs/main/linux-64/python-3.7.15-haa1d7c7_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/python-3.7.9-haa1d7c7_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/certifi-2022.12.7-py37h06a4308_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/flit-core-3.6.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/ninja-1.10.2-h06a4308_5.conda
