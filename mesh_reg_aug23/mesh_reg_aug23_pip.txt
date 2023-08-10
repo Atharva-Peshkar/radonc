@@ -1,9 +1,7 @@
 backcall==0.2.0
-certifi @ file:///croot/certifi_1671487769961/work/certifi
 cffi==1.14.3
 cycler==0.11.0
 decorator==4.4.2
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
 fonttools==4.38.0
 future==0.18.2
 fvcore==0.1.5.post20210719
@@ -39,7 +37,6 @@ PyYAML==6.0.1
 pyzmq==25.1.0
 scikit-learn==0.24.2
 scipy==1.7.3
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 tabulate==0.8.9
 termcolor==1.1.0
 threadpoolctl==2.2.0
@@ -49,7 +46,6 @@ torchvision==0.8.2
 tqdm==4.61.2
 traitlets==5.0.5
 trimesh==3.9.23
-typing_extensions @ file:///croot/typing_extensions_1669924550328/work
 wcwidth==0.2.5
 yacs==0.1.6
 zstd==1.4.4.0
